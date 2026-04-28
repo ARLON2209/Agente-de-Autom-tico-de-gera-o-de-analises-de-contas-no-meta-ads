@@ -1,0 +1,1 @@
+# Agente-de-Autom-tico-de-gera-o-de-analises-de-contas-no-meta-ads
